@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7eedbbfb.chunk.css",
-    "main.js": "/static/js/main.f8b1b955.chunk.js",
-    "main.js.map": "/static/js/main.f8b1b955.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.24be4c2b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.24be4c2b.js.map",
-    "static/js/2.7eaa0751.chunk.js": "/static/js/2.7eaa0751.chunk.js",
-    "static/js/2.7eaa0751.chunk.js.map": "/static/js/2.7eaa0751.chunk.js.map",
-    "static/js/3.0570ef70.chunk.js": "/static/js/3.0570ef70.chunk.js",
-    "static/js/3.0570ef70.chunk.js.map": "/static/js/3.0570ef70.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.7eedbbfb.chunk.css.map": "/static/css/main.7eedbbfb.chunk.css.map",
-    "static/js/2.7eaa0751.chunk.js.LICENSE.txt": "/static/js/2.7eaa0751.chunk.js.LICENSE.txt",
-    "static/media/cryptomonedas.51f1d2ed.png": "/static/media/cryptomonedas.51f1d2ed.png"
+    "main.css": "/react-criptomonedas/static/css/main.7eedbbfb.chunk.css",
+    "main.js": "/react-criptomonedas/static/js/main.f8b1b955.chunk.js",
+    "main.js.map": "/react-criptomonedas/static/js/main.f8b1b955.chunk.js.map",
+    "runtime-main.js": "/react-criptomonedas/static/js/runtime-main.c8b90e0d.js",
+    "runtime-main.js.map": "/react-criptomonedas/static/js/runtime-main.c8b90e0d.js.map",
+    "static/js/2.7eaa0751.chunk.js": "/react-criptomonedas/static/js/2.7eaa0751.chunk.js",
+    "static/js/2.7eaa0751.chunk.js.map": "/react-criptomonedas/static/js/2.7eaa0751.chunk.js.map",
+    "static/js/3.0570ef70.chunk.js": "/react-criptomonedas/static/js/3.0570ef70.chunk.js",
+    "static/js/3.0570ef70.chunk.js.map": "/react-criptomonedas/static/js/3.0570ef70.chunk.js.map",
+    "index.html": "/react-criptomonedas/index.html",
+    "static/css/main.7eedbbfb.chunk.css.map": "/react-criptomonedas/static/css/main.7eedbbfb.chunk.css.map",
+    "static/js/2.7eaa0751.chunk.js.LICENSE.txt": "/react-criptomonedas/static/js/2.7eaa0751.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.51f1d2ed.png": "/react-criptomonedas/static/media/cryptomonedas.51f1d2ed.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.24be4c2b.js",
+    "static/js/runtime-main.c8b90e0d.js",
     "static/js/2.7eaa0751.chunk.js",
     "static/css/main.7eedbbfb.chunk.css",
     "static/js/main.f8b1b955.chunk.js"
